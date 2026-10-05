@@ -1,8 +1,6 @@
-## Hi there 👋
-
 ### Hi, I'm Bryan
 
-Solo developer in Nairobi, Kenya, with a degree in finance. I design, build and deploy software for Kenyan businesses — websites, business systems and fintech/data tools — and I understand the numbers behind them.
+Solo developer in Kericho, Kenya, with a degree in finance. I design, build and deploy software for Kenyan businesses — websites, business systems and fintech/data tools — and I understand the numbers behind them.
 
 **→ Portfolio & case studies: [port-folio-seven-coral.vercel.app](https://port-folio-seven-coral.vercel.app)**
 **→ Talk to me: [WhatsApp](https://wa.me/254791861990) · [brianberrieron@gmail.com](mailto:brianberrieron@gmail.com)**
@@ -31,17 +29,4 @@ Most of my code is private for client and product reasons — the live demos and
 
 #### Stack
 
-Next.js · React · Node.js · Python (FastAPI) · PostgreSQL · Prisma · Supabase · Tailwind · LLM APIs · Vercel<!--
-**caspianbryan/caspianbryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Next.js · React · Node.js · Python (FastAPI) · PostgreSQL · Prisma · Supabase · Tailwind · LLM APIs · Vercel
