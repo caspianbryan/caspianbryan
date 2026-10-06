@@ -1,6 +1,6 @@
 ### Hi, I'm Bryan
 
-Solo developer in Kericho, Kenya, with a degree in finance. I design, build and deploy software for Kenyan businesses — websites, business systems and fintech/data tools — and I understand the numbers behind them.
+Solo developer in Nairobi, Kenya, with a degree in finance. I design, build and deploy software for Kenyan businesses — websites, business systems and fintech/data tools — and I understand the numbers behind them.
 
 **→ Portfolio & case studies: [port-folio-seven-coral.vercel.app](https://port-folio-seven-coral.vercel.app)**
 **→ Talk to me: [WhatsApp](https://wa.me/254791861990) · [brianberrieron@gmail.com](mailto:brianberrieron@gmail.com)**
